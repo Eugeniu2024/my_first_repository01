@@ -6,4 +6,5 @@ Dobavili text cerez web browser
 
 Dobavim text lokalino
 Dobavili text v novoi vetke
+
 Razreshaem conflict
