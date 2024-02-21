@@ -7,4 +7,4 @@ Dobavili text cerez web browser
 Dobavim text lokalino
 Dobavili text v novoi vetke
 
-Dobavil lokalinii conflict
+Razreshaem conflict text v brawsere
